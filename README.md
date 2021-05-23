@@ -1,1 +1,1 @@
-Live Deployment (here)[https://epic-wescoff-2fac96.netlify.app/]
+Live Deployment [here](https://epic-wescoff-2fac96.netlify.app/)
