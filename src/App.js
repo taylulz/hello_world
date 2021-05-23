@@ -6,15 +6,15 @@ function App() {
     <>
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          Hello World, <code>npm install rest</code>
         </p>
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://www.nonviolentcommunication.com/wp-content/uploads/2019/07/aboutnvc_feelingsneeds.gif"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Learn Empathy
         </a>
 
     </>
