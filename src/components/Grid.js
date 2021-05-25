@@ -1,7 +1,6 @@
 import logo from './logo.svg';
-import './App.css';
 
-function App() {
+function Grid() {
   return (
     <>
         <img src={logo} className="App-logo" alt="logo" />
@@ -21,4 +20,4 @@ function App() {
   );
 }
 
-export default App;
+export default Grid;
