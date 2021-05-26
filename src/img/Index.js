@@ -37,4 +37,5 @@ const images = {
     q,
     r
 }
+
 export default images;

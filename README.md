@@ -1,1 +1,1 @@
-Live Deployment at [here](https://tammylasorda.com/)
+Live Deployment [here](https://tammylasorda.com/)

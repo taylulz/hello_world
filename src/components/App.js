@@ -6,8 +6,8 @@ import Grid from './Grid';
 function App() {
   return (
     <>
-      <Home/>
-    {/* <Grid/> */}
+      {/* <Home/> */}
+    <Grid/>
     </>
   );
 }
