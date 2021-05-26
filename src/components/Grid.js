@@ -1,17 +1,12 @@
 import { Container } from 'react-bootstrap';
+import images from '../img/Index.js'
 
 function Grid() {
   return (
     <>
         {/* <img src={logo} className="App-logo" alt="logo" /> */}
         <Container>
-        <h1>try to implement a grid system in a bootstrap container</h1>
-        <h1>try to implement a grid system in a bootstrap container</h1>
-        <h1>try to implement a grid system in a bootstrap container</h1>
-        <h1>try to implement a grid system in a bootstrap container</h1>
-        <h1>try to implement a grid system in a bootstrap container</h1>
-        <h1>try to implement a grid system in a bootstrap container</h1>
-        <h1>try to implement a grid system in a bootstrap container</h1>
+        <img src={images.a} />
         </Container>
 
     </>

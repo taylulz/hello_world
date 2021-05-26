@@ -1,8 +1,10 @@
 import logo from '../img/logo.svg';
+import { Container } from 'react-bootstrap';
 
 function Home() {
   return (
     <>
+      <Container>
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           Hello World, <code>npm install rest</code>
@@ -15,7 +17,7 @@ function Home() {
         >
           Learn Empathy
         </a>
-
+      </Container>
     </>
   );
 }
