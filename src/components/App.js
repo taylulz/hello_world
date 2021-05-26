@@ -6,7 +6,7 @@ import Grid from './Grid';
 function App() {
   return (
     <>
-      {/* <Home/> */}
+      <Home/>
     <Grid/>
     </>
   );
