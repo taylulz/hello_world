@@ -5,7 +5,7 @@ function Home() {
   return (
     <>
       <Container>
-        <img src={logo} className="App-logo" alt="logo" width="50%" height="50%"/>
+        <img src={logo} className="App-logo" alt="logo" width="60%" height="60%"/>
         <p>
           Hello World, <code>npm install rest</code>
         </p>

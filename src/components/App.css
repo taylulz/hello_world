@@ -2,16 +2,20 @@
   text-align: center;
 }
 
-img {
+/* img {
   fill: rgb(62, 62, 228);
-}​
+}​ */
+
+.tammy {
+  fill: #ff8cb4;
+}
 
 
-.App-logo {
+/* .App-logo {
   height: 10vmin;
   pointer-events: none;
   fill: blue;
-}
+} */
 
 /* @media (prefers-reduced-motion: no-preference) {
   .App-logo {
